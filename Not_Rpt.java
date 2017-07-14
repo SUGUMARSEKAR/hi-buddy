@@ -13,7 +13,7 @@ ArrayList<Integer> ar2 = new ArrayList<Integer>();
 for(i=0;i<n;i++)
 {
 a[i] = s.nextInt();
-arr.add(a[i]);
+ar.add(a[i]);
 }
 Collections.sort(ar);
 System.out.println(ar);
